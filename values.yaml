@@ -1,0 +1,2 @@
+image: wimbers02/vat:<+pipeline.sequenceId>
+replicas: 1
